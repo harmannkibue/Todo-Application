@@ -1,0 +1,22 @@
+.header {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.header a {
+    color: powderblue;
+    text-decoration: none;
+}
+
+.topnav  {
+    background-color: grey;
+    overflow: hidden;
+
+}
+
+.topnav a:hover {
+    background-color: powderblue;
+    color: black;
+}
